@@ -1,5 +1,4 @@
 # [MIT - Introduction to Computer Science and Programming in Python](https://www.inflearn.com/course/mit-%EA%B3%B5%EA%B0%9C%EA%B0%95%EC%A2%8C-python/)  
-
 나중에 코드를 십만줄, 백만줄의 형태로 짜야하는가?  
 아니다.  
 다음 두 가지가 중요하다!

@@ -1,6 +1,5 @@
 # [MIT - Introduction to Computer Science and Programming in Python](https://www.inflearn.com/course/mit-%EA%B3%B5%EA%B0%9C%EA%B0%95%EC%A2%8C-python/)
 
-
 ## Computation 기본 사항
 
 1. 연산자와 피연산자
