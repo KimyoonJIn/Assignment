@@ -5,7 +5,7 @@
 ## 이분법
 
 아래 그림처럼 답은 낮은 경계와 위의 경계 사이 어딘가에 있다.
-   <img src="{{ "/media/img/이분법.png" | absolute_url }}">
+   <img src="./img/이분법.png">
 
 e.g.1)
 ```
