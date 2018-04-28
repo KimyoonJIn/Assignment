@@ -1,4 +1,5 @@
-# M.I.T - Introduction to Computer Science and Programming in Python
+# [MIT - Introduction to Computer Science and Programming in Python](https://www.inflearn.com/course/mit-%EA%B3%B5%EA%B0%9C%EA%B0%95%EC%A2%8C-python/)
+
 
 
 ### 강좌 소개
@@ -14,18 +15,18 @@
 
 | 번호  | 강좌 이름  |
 |---|---|
-| 1  | 강좌소개와 data types, operators, variables	  |   
-|  2 |  연산자와 피연산자, 반복문, 조건문, 분기문 |   
-|  3 | 공통적인 코드 패턴, 반복적인 프로그램  |   
-|  4 | 함수를 통한 분해 와 추상화 , 재귀 소개   |   
-|   5| 부동소수점, successive refinement, 루트 찾기  |   
-|  6 | 이분법, Newton/Raphson, 리스트소개  |   
-|  7 | 리스트와 가변성, 사전, 의사코드, 효율성 소개	  |   
-|  8 |  복잡성 – 로그, 선형, 이차방정식, 지수 연산 알고리즘 |   
-|  9 |  이진법 탐색, bubble , 분류 선택	 |   
-|  10 | 분할&정복 방법, 병합정렬, 예외  |   
-|   11|  테스트와 디버깅 |   
-| 12  |디버깅 보강, 배낭 문제, 동적 프로그래밍 소개   |   
+| 1  | [강좌소개와 data types, operators, variables](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.1.md)	  |   
+|  2 |  [연산자와 피연산자, 반복문, 조건문, 분기문](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.2%263.md) |   
+|  3 | [공통적인 코드 패턴, 반복적인 프로그램](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.2%263.md)  |   
+|  4 | [함수를 통한 분해 와 추상화 , 재귀 소개](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.4.md)   |   
+|   5| [부동소수점, successive refinement, 루트 찾기](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.5.md)  |   
+|  6 | [이분법, Newton/Raphson, 리스트소개](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.6.md)  |   
+|  7 | [리스트와 가변성, 사전, 의사코드, 효율성 소개](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.7.md)	  |   
+|  8 |  [복잡성 – 로그, 선형, 이차방정식, 지수 연산 알고리즘](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.8.md) |   
+|  9 |  [이진법 탐색, bubble , 분류 선택](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.9.md)	 |   
+|  10 | [분할&정복 방법, 병합정렬, 예외](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.10.md)  |   
+|   11|  [테스트와 디버깅](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.11.md) |   
+| 12  |[디버깅 보강, 배낭 문제, 동적 프로그래밍 소개](https://github.com/KimyoonJIn/Introduction-to-Computer-Science-and-Programming-in-Python/blob/master/lecture/lec.12.md)   |   
 |  13 | 동적 프로그래밍: overlapping subproblems, optimal substructure  |   
 |14   |  배낭문제 분석, 객체 지향 프로그래밍 소개	 |   
 |  15 | 추상 데이터 타입, 클래스와 메소드  |   
