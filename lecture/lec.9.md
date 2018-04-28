@@ -1,4 +1,4 @@
-# [MIT - Introduction to Computer Science and Programming in Python](https://www.inflearn.com/course/mit-%EA%B3%B5%EA%B0%9C%EA%B0%95%EC%A2%8C-python/)
+﻿# [MIT - Introduction to Computer Science and Programming in Python](https://www.inflearn.com/course/mit-%EA%B3%B5%EA%B0%9C%EA%B0%95%EC%A2%8C-python/)
 
 ## 이진 탐색
 우리가 세운 이진 탐색의 기본적인 전제, 정렬된 원소들의 리스트를 가지고 있다고 상상해보는 것.  
@@ -83,7 +83,7 @@ False
 한 번만 탐색하기 위해선 정렬 되지 않은 선형 탐색이 더 좋다. 왜냐하면 일반적으로 nlogn은 n,보다 크기 때문이다.
 
 | Search type|Time|
-|---|---|---|
+|---|---|
 | 선형탐색|n|
 |정렬후 탐색|  nlogn + logn|
 
@@ -91,7 +91,7 @@ False
 리스트의 k search를 하고 싶다고 가정해본다면 다음 표와 같다.
 
 | Search type|Time|
-|---|---|---|
+|---|---|
 | 선형탐색|kn|
 |정렬후 탐색| nlogn + klogn|
 
