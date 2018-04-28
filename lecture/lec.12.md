@@ -86,7 +86,7 @@ continuous 배낭문제에서 탐욕 알고리즘이 최고의 해답을 준다.
 
 무작위 알고리즘을 적용한 수식
 
-  <img src="{{ "/media/img/knapsack.png" | absolute_url }}">
+  <img src="{{ "/img/knapsack.png" | absolute_url }}">
 
 X는 0과 1로 이루어진 아이템을 표현한 벡터이다.  
 W는 아이템에 따른 무게이다.  
